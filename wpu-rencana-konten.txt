@@ -1,0 +1,6 @@
+Rencana konten 
+- javascrit
+* Es6
+* fremwork javasript
+- interview
+- vlog
